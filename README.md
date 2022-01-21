@@ -4,7 +4,7 @@ I'm a Senior Customer Engineer at Microsoft, currently focusing on educating and
 
 Things I love to get involved with:
 
-- Azure and DevOps
+- Azure and Azure DevOps
 - DevOps practices and culture
 - GitHub
 
