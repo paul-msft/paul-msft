@@ -9,3 +9,5 @@ Things I love to get involved with:
 - GitHub
 
 My favourite topics in this space are CI/CD pipelines and GitHub workflows 🐱‍💻🚀
+
+I'm on [LinkedIn](https://www.linkedin.com/in/paul-msft/)!
