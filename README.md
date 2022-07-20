@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-I'm a Senior Customer Engineer at Microsoft, currently focusing on educating and supporting customers through their software development modernisation and DevOps journies - both from a cultural and technical standpoint.
+I'm a Microsoft Technical Trainer, educating Microsoft ESI customers in preparation for passing Azure certification exams.
 
 Things I love to get involved with:
 
