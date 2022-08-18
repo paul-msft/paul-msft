@@ -8,6 +8,6 @@ Things I love to get involved with:
 - DevOps practices and culture
 - GitHub
 
-My favourite topics in this space are CI/CD pipelines and GitHub workflows 💻🚀
+My favourite topics in this space are CI/CD pipelines and GitHub Action workflows 💻🚀
 
 I'm on [LinkedIn](https://www.linkedin.com/in/paul-msft/)!
